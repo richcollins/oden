@@ -13,7 +13,7 @@
 		"node": "~0.6.14"
 	},
 	"dependencies": {
-		"crux": "0.0.1"
+		"crux.js": "0.0.1"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {}
