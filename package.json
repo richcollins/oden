@@ -1,0 +1,20 @@
+{
+	"author": "Rich Collins <richcollins@gmail.com> (http://twitter.com/richcollins)",
+	"name": "oden",
+	"description": "oden makes node more powerful",
+	"main": "./lib/oden.js",
+	"version": "0.0.1",
+	"homepage": "https://github.com/richcollins/oden",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/richcollins/oden.git"
+	},
+	"engines": {
+		"node": "~0.6.14"
+	},
+	"dependencies": {
+		"crux": "0.0.1"
+	},
+	"devDependencies": {},
+	"optionalDependencies": {}
+}
