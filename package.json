@@ -3,7 +3,7 @@
 	"name": "oden",
 	"description": "oden makes node more powerful",
 	"main": "./lib/oden.js",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"homepage": "https://github.com/richcollins/oden",
 	"repository": {
 		"type": "git",
@@ -13,7 +13,7 @@
 		"node": "~0.6.14"
 	},
 	"dependencies": {
-		"ideal": "0.0.1"
+		"ideal": "0.0.2"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {}
