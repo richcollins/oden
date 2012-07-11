@@ -10,7 +10,7 @@
 		"url": "git://github.com/richcollins/oden.git"
 	},
 	"engines": {
-		"node": "~0.6.14"
+		"node": "0.8.x"
 	},
 	"dependencies": {
 		"ideal": "0.0.3"
